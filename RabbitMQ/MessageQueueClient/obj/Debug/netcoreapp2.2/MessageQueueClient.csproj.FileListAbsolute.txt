@@ -1,0 +1,13 @@
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\bin\Debug\netcoreapp2.2\MessageQueueClient.deps.json
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\bin\Debug\netcoreapp2.2\MessageQueueClient.runtimeconfig.json
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\bin\Debug\netcoreapp2.2\MessageQueueClient.runtimeconfig.dev.json
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\bin\Debug\netcoreapp2.2\MessageQueueClient.dll
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\bin\Debug\netcoreapp2.2\MessageQueueClient.pdb
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\obj\Debug\netcoreapp2.2\MessageQueueClient.csprojAssemblyReference.cache
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\obj\Debug\netcoreapp2.2\MessageQueueClient.csproj.CoreCompileInputs.cache
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\obj\Debug\netcoreapp2.2\MessageQueueClient.AssemblyInfoInputs.cache
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\obj\Debug\netcoreapp2.2\MessageQueueClient.AssemblyInfo.cs
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\obj\Debug\netcoreapp2.2\MessageQueueClient.csproj.CopyComplete
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\obj\Debug\netcoreapp2.2\MessageQueueClient.dll
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\obj\Debug\netcoreapp2.2\MessageQueueClient.pdb
+E:\myDemo\RabbitMQ\RabbitMQ\MessageQueueClient\bin\Debug\netcoreapp2.2\RabbitMQ.Client.dll

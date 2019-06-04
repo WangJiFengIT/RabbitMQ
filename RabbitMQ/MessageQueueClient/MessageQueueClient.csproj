@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="RabbitMQ.Client">
+      <HintPath>C:\Users\wangjifeng\Desktop\消息队列\队列安装程序dll\RabbitMQ.Client.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
